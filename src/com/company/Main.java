@@ -9,6 +9,8 @@ public class Main {
     public static void algorithmTask4(){
         System.out.println("1 proba taska 4");
         System.out.println("2 proba taska 4");
+        System.out.println("3 proba taska 4");
+
 
     }
 }
