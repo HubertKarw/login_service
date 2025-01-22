@@ -11,6 +11,7 @@ public class Main {
         System.out.println("2 proba taska 4");
         System.out.println("3 proba taska 4");
         System.out.println("4 proba taska 4");
+        System.out.println("5 proba taska 4");
 
     }
 }
