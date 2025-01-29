@@ -14,4 +14,7 @@ public class Main {
         System.out.println("5 proba taska 4");
 
     }
+    public static void algorithmTask5(){
+        System.out.println("part 1 od task 5");
+    }
 }
