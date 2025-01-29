@@ -19,4 +19,7 @@ public class Main {
         System.out.println("part 2 od task 5");
         System.out.println("part 3 od task 5");
     }
+    public static void bughotfix(){
+        System.out.println("hot fix");
+    }
 }
