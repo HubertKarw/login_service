@@ -16,5 +16,6 @@ public class Main {
     }
     public static void algorithmTask5(){
         System.out.println("part 1 od task 5");
+        System.out.println("part 2 od task 5");
     }
 }
